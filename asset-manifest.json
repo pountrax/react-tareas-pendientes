@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.756af292.css",
-    "main.js": "/static/js/main.87689d5b.js",
-    "index.html": "/index.html",
-    "main.756af292.css.map": "/static/css/main.756af292.css.map",
-    "main.87689d5b.js.map": "/static/js/main.87689d5b.js.map"
+    "main.css": "/react-tareas-pendientes/static/css/main.756af292.css",
+    "main.js": "/react-tareas-pendientes/static/js/main.87689d5b.js",
+    "index.html": "/react-tareas-pendientes/index.html",
+    "main.756af292.css.map": "/react-tareas-pendientes/static/css/main.756af292.css.map",
+    "main.87689d5b.js.map": "/react-tareas-pendientes/static/js/main.87689d5b.js.map"
   },
   "entrypoints": [
     "static/css/main.756af292.css",
